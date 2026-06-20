@@ -13,5 +13,5 @@ O projeto verifica:
 
 ## Tecnologias utilizadas
 
-- Java
-- JUnit 4
+- **Java 21**
+- **JUnit 4**
